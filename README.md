@@ -1,10 +1,7 @@
-# Information Security assignments
-Assignments for the course "Information Security", taken at Aalto University in 2016.
+# Password cracker
+Simple password cracker implemented in Python.
 
 Author: Martin Borek
-
-#Password cracker
-Simple password cracker implemented in Python.
 
 How to run:
 ```sh
