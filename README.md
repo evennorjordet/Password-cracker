@@ -11,3 +11,4 @@ python3 password_cracker.py --users users.txt --dictionary dictionary.txt --cons
     --dictionary File with words on separate lines
     --constant Constant; text prepended to a password before computing its hash
 
+[![Run on Repl.it](https://repl.it/badge/github/martinborek/Password-cracker)](https://repl.it/github/martinborek/Password-cracker)
